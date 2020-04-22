@@ -1,3 +1,0 @@
-// INDEX TEAM
-
-CREATE INDEX ON :Team(name)

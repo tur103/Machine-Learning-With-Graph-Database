@@ -1,3 +1,0 @@
-// INDEX JOB
-
-CREATE INDEX ON :Job(name)
