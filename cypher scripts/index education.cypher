@@ -1,0 +1,3 @@
+// INDEX EDUCATION
+
+CREATE INDEX ON :Education(name)

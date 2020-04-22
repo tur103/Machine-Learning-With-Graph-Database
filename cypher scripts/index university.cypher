@@ -1,0 +1,3 @@
+// INDEX UNIVERSITY
+
+CREATE INDEX ON :University(name)

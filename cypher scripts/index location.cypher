@@ -1,0 +1,3 @@
+// INDEX LOACTION
+
+CREATE INDEX ON :Location(name)

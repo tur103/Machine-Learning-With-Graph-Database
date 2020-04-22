@@ -1,0 +1,3 @@
+// INDEX HIRING SOURCE
+
+CREATE INDEX ON :HiringSource(name)
