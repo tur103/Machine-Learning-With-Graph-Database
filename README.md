@@ -1,2 +1,2 @@
-# Social-Network-Link-Prediction
-Predict near future relationships between people using graph database and machine learning
+# Machine Learning With Graph Database
+Predict near future events inside using graph database and machine learning
